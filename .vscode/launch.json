@@ -12,7 +12,7 @@
       "outFiles": [
         "${workspaceFolder}/**/*.js",
       ],
-      "program": "${workspaceFolder}\\src\\auto-i18n\\index.js"
+      "program": "${workspaceFolder}\\src\\auto-doc\\index.js"
     }
   ]
 }
