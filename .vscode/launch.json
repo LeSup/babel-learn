@@ -12,7 +12,7 @@
       "outFiles": [
         "${workspaceFolder}/**/*.js",
       ],
-      "program": "${workspaceFolder}\\src\\mangle-compress\\index.js"
+      "program": "${workspaceFolder}\\src\\js-interpreter\\index.js"
     }
   ]
 }
